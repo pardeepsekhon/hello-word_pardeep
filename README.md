@@ -1,3 +1,3 @@
 # hello-word_pardeep
-i am pardeep..
+i am pardeep
 demooooo
